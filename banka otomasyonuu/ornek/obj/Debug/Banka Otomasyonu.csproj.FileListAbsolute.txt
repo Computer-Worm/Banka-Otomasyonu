@@ -1,0 +1,70 @@
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\bin\Debug\ornek.exe.config
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\bin\Debug\ornek.exe
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\bin\Debug\ornek.pdb
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\Banka Otomasyonu.csproj.AssemblyReference.cache
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.baslangic.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.giris_ekrani.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.personel_giris.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.personel_panel.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.Properties.Resources.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\Banka Otomasyonu.csproj.GenerateResource.cache
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\Banka Otomasyonu.csproj.CoreCompileInputs.cache
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.exe
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.pdb
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\bin\Debug\ornek.exe.config
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\bin\Debug\ornek.exe
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\bin\Debug\ornek.pdb
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\Banka Otomasyonu.csproj.AssemblyReference.cache
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.baslangic.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.giris_ekrani.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_giris.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_panel.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.Properties.Resources.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\Banka Otomasyonu.csproj.GenerateResource.cache
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\Banka Otomasyonu.csproj.CoreCompileInputs.cache
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.exe
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.pdb
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_ekle.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_duzenle.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_listele.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_ekle.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_duzenle.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_listele.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_giris.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_panel.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.bilgilerim.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.hesap_ekle.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.hesap_sil.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.eft_havale.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.sifremi_unuttum.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.hesap_ozeti.resources
+Y:\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.banka_raporu.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\bin\Debug\ornek.exe.config
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\bin\Debug\ornek.exe
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\bin\Debug\ornek.pdb
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\Banka Otomasyonu.csproj.AssemblyReference.cache
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\Banka Otomasyonu.csproj.SuggestedBindingRedirects.cache
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.banka_raporu.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.baslangic.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.bilgilerim.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.eft_havale.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.giris_ekrani.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.hesap_ekle.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.hesap_ozeti.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.hesap_sil.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_duzenle.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_ekle.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_giris.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_listele.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.musteri_panel.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_duzenle.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_ekle.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_giris.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_listele.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.personel_panel.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.Properties.Resources.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.sifremi_unuttum.resources
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\Banka Otomasyonu.csproj.GenerateResource.cache
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\Banka Otomasyonu.csproj.CoreCompileInputs.cache
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.exe
+Y:\Dosyalar\YAZILIM\visual studio\otomasyon\banka otomasyonu\banka otomasyonuu\ornek\obj\Debug\ornek.pdb

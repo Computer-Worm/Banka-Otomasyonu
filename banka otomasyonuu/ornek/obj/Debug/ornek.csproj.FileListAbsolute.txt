@@ -1,0 +1,13 @@
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\bin\Debug\ornek.exe.config
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\bin\Debug\ornek.exe
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\bin\Debug\ornek.pdb
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.csproj.AssemblyReference.cache
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.Properties.Resources.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.csproj.GenerateResource.cache
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.csproj.CoreCompileInputs.cache
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.exe
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.pdb
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.baslangic.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.giris_ekrani.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.personel_panel.resources
+Y:\YAZILIM\visual studio\otomasyon\ornek\ornek\ornek\obj\Debug\ornek.personel_giris.resources
